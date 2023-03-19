@@ -1,0 +1,681 @@
+,Brand,Model,model_year,km_driven,car_type,gear_type,location,price,fuel_type
+0,maruti,CIAZ ,2019,23135.0,sedan,Manual,malad,875000.0,Petrol
+1,mahindra,Bolero ,2012,75000.0,sedan,Manual,borivali,575000.0,Diesel
+2,mahindra,TUV 300 T8 ,2018,13000.0,sedan,Manual,borivali,875000.0,Diesel
+3,bmw,525 i petrol ,2010,46000.0,sedan,Auto,borivali,575000.0,Petrol
+4,honda,Brio V AT ,2012,59000.0,sedan,Auto,borivali,399000.0,Petrol
+5,maruti,Wagon R ,2016,58000.0,sedan,Auto,borivali,445000.0,Petrol
+6,maruti,CIAZ ,2016,26195.0,sedan,Manual,thane,650000.0,Petrol
+7,volkswagen,Vento 1.6L MT Highline ,2014,26000.0,sedan,Manual,mumbai,465000.0,Petrol
+8,maruti,Wagon R 1.0 VXI AMT ,2017,32000.0,hatchback,Automatic,mumbai,465000.0,Petrol
+9,toyota,Corolla Altis 1.8J ,2015,70000.0,sedan,Manual,mumbai,775000.0,Petrol
+10,hyundai,Creta S 1.4 CRDI ,2019,68000.0,sedan,Manual,borivali,1025000.0,Petrol
+11,toyota,Fortuner 4x2 AT ,2014,86000.0,sedan,Automatic,mumbai,1525000.0,Diesel
+12,hyundai,Grand i 10 4Speed AT ,2014,40000.0,sedan,Automatic,mumbai,474000.0,Petrol
+13,toyota,Fortuner ,2017,68200.0,suv/muv,Automatic,malad,3050000.0,Diesel
+14,volkswagen,Polo ,2019,17000.0,hatchback,Automatic,malad,900000.0,Petrol
+15,ford,Ecosport 1.5 Titanium ,2015,45000.0,suv/muv,Auto,malad,475000.0,Petrol
+16,volkswagen,POLO HIGHLINE ,2016,35400.0,hatchback,Manual,mumbai,549999.0,Petrol
+17,hyundai,I20 ,2010,38410.0,hatchback,Manual,borivali,225000.0,Petrol
+18,mercedes,BENZ ,2015,54258.0,luxury,Auto,malad,1999000.0,Diesel
+19,hyundai,I 20 ,2017,38300.0,hatchback,Manual,malad,574999.0,Petrol
+20,hyundai,ELITE I20 ,2017,36800.0,hatchback,Manual,malad,710000.0,Petrol
+21,maruti,Alto ,2011,10921.0,hatchback,Manual,thane west,165000.0,Petrol
+22,mercedes,GLC 200 ,2016,20000.0,suv/muv,Automatic,andheri,6000000.0,Petrol
+23,mercedes,CLA 200 ,2016,25000.0,sedan,Automatic,andheri,2400000.0,Diesel
+24,hyundai,Elite i20 1.2 ,2016,61000.0,sedan,Manual,borivali,525000.0,Petrol
+25,mercedes,Benz C Class ,2016,33000.0,sedan,Auto,borivali,2100000.0,Diesel
+26,maruti,Suzuki Swift Dzire ,2014,90000.0,sedan,Manual,borivali,475000.0,Diesel
+27,hyundai,GRAND I10 ,2017,17600.0,hatchback,Manual,malad,474000.0,Petrol
+28,hyundai,Santa Fe ,2015,94000.0,suv/muv,Automatic,malad,1265000.0,Diesel
+29,honda,City 1.5 V AT ,2011,61000.0,sedan,Automatic,borivali,399000.0,Petrol
+30,hyundai,Eon ,2013,20963.0,hatchback,Manual,thane,225000.0,Petrol
+31,honda,JAZZ  ,2015,27220.0,hatchback,Auto,borivali,535000.0,Petrol
+32,hyundai,i20 Asta 1.2 ,2010,52000.0,hatchback,Manual,malad,290000.0,Petrol
+33,maruti,Swift vxi ,2008,60000.0,hatchback,Manual,mumbai,165000.0,Petrol
+34,kia,seltos ,2021,4000.0,suv/muv,Manual,vile parle,1549000.0,Diesel
+35,landrover,Range Rover Evoque ,2020,18000.0,suv/muv,Automatic,andheri,7200000.0,Petrol
+36,honda,City New V MT ,2012,81000.0,hatchback,Manual,borivali,425000.0,Petrol
+37,maruti,Suzuki Celerio VXI ,2014,55000.0,hatchback,Auto,borivali,425000.0,Petrol
+38,maruti,BALENO ALPHA ,2019,36000.0,hatchback,Auto,malad,785000.0,Petrol
+39,honda,City ,2014,54000.0,hatchback,Auto,borivali,600000.0,Petrol
+40,mahindra,Quanto C6 ,2016,81000.0,hatchback,Manual,borivali,375000.0,Diesel
+41,mahindra,Scorpio ,2018,52000.0,suv/muv,Manual,vasai,985000.0,Diesel
+42,hyundai,Verna Fluidic ,2020,1200.0,sedan,Auto,mumbai,1495000.0,Petrol
+43,hyundai,I20 Asta ,2012,25000.0,sedan,Auto,malad,375000.0,Petrol
+44,honda,City ,2013,61000.0,sedan,Manual,malad,450000.0,Petrol
+45,honda,Accord ,2011,74000.0,sedan,Manual,malad,450000.0,Petrol
+46,hyundai,Verna 1.6  ,2013,57000.0,sedan,Auto,malad,425000.0,Petrol
+47,mahindra,Scorpio  ,2017,64000.0,sedan,Auto,malad,1350000.0,Diesel
+48,toyota,CAMRY HYBRID ,2016,67000.0,sedan,Auto,mumbai,1799000.0,Petrol
+49,landrover,Range Rover Evoque ,2020,27700.0,suv/muv,Auto,mumbai,6450000.0,Diesel
+50,mercedes,BENZ  ,2010,39600.0,sedan,Auto,malad,925000.0,Petrol
+51,renault,KWID RXT ,2017,13100.0,suv/muv,Manual,malad,300000.0,Petrol
+52,maruti,SUUKI CELERIO ,2016,15700.0,hatchback,Auto,malad,425000.0,Petrol
+53,mercedes,BENZ C- CLASS ,2012,67500.0,sedan,Auto,malad,1075000.0,Petrol
+54,honda,CITY  ,2010,29000.0,sedan,Manual,powai,279999.0,Petrol
+55,honda,Civic ,2010,69000.0,sedan,Auto,powai,245000.0,Petrol
+56,mercedes,Benz GLC 300 ,2019,26000.0,suv/muv,Automatic,andheri,5500000.0,Petrol
+57,bmw,7 Series 730LD  ,2016,21000.0,sedan,Automatic,andheri,6500000.0,Diesel
+58,audi,Q5 30TDI ,2016,81000.0,suv/muv,Automatic,goregaon,2290000.0,Diesel
+59,audi,A3 35TFSI TECHNOLOGY ,2019,9000.0,sedan,Automatic,goregaon,2795000.0,Petrol
+60,maruti,WagonR ,2017,21000.0,hatchback,Manual,mumbai,415000.0,Petrol
+61,skoda,Superb 1.8 TSI AT Elegance ,2016,39000.0,sedan,Automatic,mumbai,1699000.0,Petrol
+62,maruti,Ertiga ,2016,34000.0,sedan,Manual,borivali,790000.0,Petrol
+63,mercedes,CLA 200 CDI ,2019,16000.0,sedan,Auto,mumbai,3250000.0,Diesel
+64,maruti,ERTIGA ,2016,83000.0,suv/muv,Manual,vasai,795000.0,Petrol
+65,hyundai,CRETA E+ ,2017,83000.0,suv/muv,Manual,vasai,895000.0,Diesel
+66,mg,HECTOR ,2022,350.0,suv/muv,Auto,mumbai,2175000.0,Petrol
+67,bmw,X5 3.0D ,2020,15000.0,suv/muv,Auto,mumbai,8695000.0,Diesel
+68,audi,A4 2.0 TDI ,2013,60000.0,sedan,Auto,malad,1249000.0,Diesel
+69,hyundai,I20 ASTA ,2012,24300.0,hatchback,Manual,malad,320000.0,Petrol
+70,maruti,CIAZ ALPHA ,2017,73000.0,hatchback,Automatic,vasai,745000.0,Petrol
+71,hyundai,I10 Sports ,2011,40000.0,hatchback,Automatic,malad,275000.0,Petrol
+72,hyundai,Elite i 20 1.2 Kappa ,2020,7000.0,sedan,Manual,borivali west,775000.0,Petrol
+73,bmw,5 series ,2011,74000.0,sedan,Automatic,mumbai,1200000.0,Petrol
+74,mercedes,Benz E Class E ,2011,77000.0,luxury,Automatic,mumbai,1175000.0,Diesel
+75,hyundai,I20 SPORTZ ,2021,4600.0,hatchback,Auto,malad,925000.0,Petrol
+76,audi,A6 45TFSI ,2020,14400.0,sedan,Auto,malad,5550000.0,Petrol
+77,honda,City 1.5 S  ,2009,46000.0,sedan,Automatic,borivali,315000.0,Petrol
+78,honda,City SV 1.5L ,2016,67000.0,sedan,Automatic,borivali,695000.0,Petrol
+79,mercedes,Benz M Class ML 250 ,2012,52000.0,sedan,Automatic,mumbai,2200000.0,Diesel
+80,hyundai,Venue SX Plus ,2019,20000.0,sedan,Automatic,mumbai,1165000.0,Petrol
+81,toyota,Corolla Altis 1.8G ,2009,74000.0,sedan,Manual,mumbai,325000.0,Petrol
+82,hyundai,VENUE S1.0 AT ,2019,23000.0,suv/muv,Auto,malad,925000.0,Petrol
+83,volkswagen,Vento Highline  ,2011,49000.0,sedan,Manual,jogeshwari,285000.0,Petrol
+84,mahindra,THAR  ,2020,21000.0,suv/muv,Automatic,malad,1775000.0,Diesel
+85,audi,Q7 45 TDI ,2019,12000.0,suv/muv,Auto,mumbai,7050000.0,Diesel
+86,bmw,5 SERIES 530D ,2014,69600.0,sedan,Auto,malad,2450000.0,Diesel
+87,skoda,Rapid  ,2014,77800.0,sedan,Manual,jogeshwari,410000.0,Diesel
+88,hyundai,Verna  ,2013,45400.0,sedan,Manual,jogeshwari,410000.0,Petrol
+89,mercedes,C230  ,2009,58800.0,luxury sedan,Manual,jogeshwari,625000.0,Petrol
+90,mini,COOPER CONVERTABLE ,2012,21000.0,hatchback,Auto,malad,2050000.0,Petrol
+91,bmw,X1 XDRIVE ,2018,41000.0,sedan,Auto,malad,2800000.0,Diesel
+92,bmw,7 SERIES ,2009,37000.0,sedan,Auto,malad,1500000.0,Diesel
+93,hyundai,VERNA FLUIDIC ,2015,58200.0,sedan,Auto,malad,595000.0,Petrol
+94,maruti,SUZUKI BALENO ,2016,9800.0,hatchback,Manual,malad,525000.0,Petrol
+95,mercedes,BENZ GLS ,2021,30500.0,sedan,Auto,malad,13250000.0,Petrol
+96,skoda,RAPID STYLE ,2016,52000.0,sedan,Auto,malad,575000.0,Diesel
+97,tata,HARRIER ,2020,18000.0,suv/muv,Auto,malad,2149999.0,Diesel
+98,hyundai,I20  ,2018,42835.0,hatchback,Manual,andheri,660000.0,Petrol
+99,toyota,Innova ,2014,76000.0,suv/muv,Manual,andheri,915000.0,Diesel
+100,jaguar,XF ,2012,46400.0,sedan,Automatic,malad,1750000.0,Diesel
+101,maruti,Ertiga  ,2015,57000.0,sedan,Manual,borivali,685000.0,Petrol
+102,kia,SELOTS 1.5 AT X- LINE ,2021,6740.0,suv/muv,Auto,malad,1950000.0,Diesel
+103,mercedes,Benz GLC ,2014,94000.0,sedan,Automatic,andheri,3215000.0,Diesel
+104,hyundai,I10 ,2014,76208.0,hatchback,Manual,thane,350000.0,Petrol
+105,hyundai,Creta  ,2020,14710.0,suv,Manual,andheri,1250000.0,Petrol
+106,hyundai,I10 ,2016,62486.0,hatchback,Auto,malad,450000.0,Petrol
+107,bmw,3GT ,2015,57254.0,sedan,Auto,malad west,2100000.0,Diesel
+108,mercedes,CLA 200D ,2017,64000.0,sedan,Automatic,andheri,1785000.0,Diesel
+109,mercedes,Benz E Class ,2019,28900.0,sedan,Automatic,malad,5750000.0,Petrol
+110,mercedes,Benz E Class ,2014,10786.0,sedan,Auto,malad west,1100000.0,Petrol
+111,landrover,Defender ,2021,14000.0,suv/muv,Auto,santacruz east,10500000.0,Petrol
+112,landrover,Range Rover Evoque ,2015,35000.0,suv/muv,Auto,santacruz east,3600000.0,Diesel
+113,maruti,CIAZ ,2019,12600.0,sedan,Manual,malad,836000.0,Petrol
+114,maruti,Swift ,2015,47300.0,hatchback,Manual,malad,500000.0,Petrol
+115,mercedes,Benz E Class ,2020,15800.0,sedan,Automatic,malad,6450000.0,Petrol
+116,mercedes,Benz C Class ,2017,19900.0,sedan,Automatic,malad,3150000.0,Petrol
+117,mercedes,CLA ,2017,49500.0,sedan,Automatic,malad,2450000.0,Petrol
+118,bmw,530 D M SPORT ,2013,40000.0,luxury sedan,Automatic,mumbai,1950000.0,Diesel
+119,maruti,SUZUKI CIAZ VXI ,2016,49000.0,sedan,Manual,malad,650000.0,Petrol
+120,kia,SELTOS GTX PLUS ,2021,20000.0,suv/muv,Automatic,malad,1900000.0,Petrol
+121,maruti,SUZUKI CIAZ ZXI ,2015,52800.0,sedan,Manual,malad,625000.0,Petrol
+122,maruti,SUZUKI SWIFT LXI ,2014,64300.0,hatchback,Manual,malad,385000.0,Petrol
+123,maruti,SUZUKI SWIFT DZIRE VXI ,2013,54200.0,sedan,Manual,malad,395000.0,Petrol
+124,maruti,SUZUKI VITTARA BREZZA LDI ,2018,40000.0,suv/muv,Manual,malad,700000.0,Diesel
+125,maruti,SUZUKI VITARA BREZZA ,2018,29600.0,suv/muv,Manual,malad,900000.0,Diesel
+126,maruti,SUZUKI WAGON R VXI+ ,2014,49000.0,hatchback,Manual,malad,325000.0,Petrol
+127,maruti,SUZUKI WAGON R 1.0 ,2016,24400.0,hatchback,Manual,malad,375000.0,Petrol
+128,mercedes,BENZ GLA CLASS GLA200CDI SPORT ,2016,76200.0,suv/muv,Automatic,malad,2025000.0,Diesel
+129,mercedes,BANZ GLS 350 D ,2018,28000.0,suv/muv,Auto,malad,7350000.0,Diesel
+130,mercedes,BENZ M CLASS ML 250 ,2014,84000.0,suv/muv,Auto,malad,2550000.0,Diesel
+131,mercedes,BENZ M CLASS ML 350CDI ,2014,94000.0,suv/muv,Automatic,malad,1825000.0,Diesel
+132,mercedes,BENZ S CLASS S500 ,2012,63500.0,sedan,Automatic,malad,1849000.0,Diesel
+133,mercedes,BENZ S CLAAS S 5000 ,2014,37300.0,sedan,Auto,malad,5450000.0,Petrol
+134,morris,GARAGE HECTOR SMAET 1.5 DCT PETROL ,2019,39000.0,suv/muv,Auto,malad,1645000.0,Petrol
+135,skoda,OCTAVIA ELEGANCE 2.0 TDI CR AT ,2014,35000.0,sedan,Auto,malad,975000.0,Petrol
+136,skoda,RAPID STYLE 1.6 MPL ,2014,17700.0,sedan,Manual,malad,675000.0,Petrol
+137,tata,HARRIER XZ PLUS ,2020,23200.0,suv/muv,Auto,malad,1800000.0,Diesel
+138,toyota,COROLLA ALTIS 1.8G(CVT) ,2018,47900.0,sedan,Auto,malad,1350000.0,Petrol
+139,toyota,ETIOS VX ,2011,15200.0,sedan,Manual,malad,289999.0,Petrol
+140,toyota,INNOVA CRYSTA  ,2021,12500.0,suv/muv,Auto,malad,2900000.0,Diesel
+141,toyota,INNOVA CRYSTA 2.4ZX AT 7 STR ,2021,27400.0,suv/muv,Auto,malad,2849000.0,Diesel
+142,bmw,X5 XDRIVE 30D M SPORT ,2017,57000.0,suv/muv,Auto,malad,4650000.0,Diesel
+143,hyundai,ELITE I20 SPORTZ PLUS 1.2 CVT ,2019,10700.0,hatchback,Auto,malad,800000.0,Petrol
+144,hyundai,GRAND I10 1.2 KAPPA VTT 4AT MAGNA ,2017,28400.0,hatchback,Auto,malad,540000.0,Petrol
+145,hyundai,GRAND I10 ASTA 1.2 KAPPA VTVT ,2015,51200.0,hatchback,Manual,malad,540000.0,Petrol
+146,hyundai,GRAND I10 MAGNA1.2KPPA VTVT CNG ,2019,31800.0,hatchback,Manual,malad,575000.0,Petrol
+147,maruti,swift ,2009,84736.0,hatchback,Manual,thane,175000.0,Petrol
+148,hyundai,I20 ,2019,50678.0,hatchback,Manual,thane,675000.0,Petrol
+149,jeep,COMPASS SPORT 2.0D ,2018,19077.0,suv,Manual,malad,1399000.0,Diesel
+150,bmw,BMW 520 D ,2020,535.0,sedan,Auto,malad,5500000.0,Diesel
+151,hyundai,I 10 ,2012,37058.0,hatchback,Auto,pns,299000.0,Petrol
+152,honda,CIVIC ,2007,57400.0,sedan,Auto,malad,250000.0,Diesel
+153,honda,Mobilio ,2015,41000.0,suv,Manual,thane,515000.0,Petrol
+154,hyundai,i10 ,2014,59000.0,hatchback,Manual,thane,295000.0,Petrol
+155,hyundai,CRETA ,2017,14398.0,suv,Auto,malad,1099000.0,Petrol
+156,mahindra,Scorpio  ,2014,55000.0,suv/muv,Manual,mumbai,595000.0,Diesel
+157,volvo,XC90 ,2015,64000.0,sedan,Automatic,malad,4650000.0,Diesel
+158,audi,A6 TDI PREMIUM ,2013,63900.0,sedan,Automatic,malad,1449000.0,Diesel
+159,maruti,ERTIGA ,2014,118442.0,suv,Manual,thane,525000.0,Petrol
+160,maruti,Celerio ,2014,89470.0,hatchback,Manual,thane,315000.0,Petrol
+161,honda,CITY ,2006,88000.0,sedan,Manual,borivali,100000.0,Petrol
+162,hyundai,I20 ,2010,53000.0,hatchback,Manual,borivali,245000.0,Petrol
+163,mercedes,Benz E Class ,2015,44000.0,sedan,Automatic,malad,2274000.0,Diesel
+164,honda,CITY ,2010,75062.0,sedan,Automatic,thane,310000.0,Petrol
+165,honda,BRIO   ,2012,140589.0,hatchback,Manual,thane,200000.0,Petrol
+166,honda,City ,2009,97142.0,sedan,Manual,thane,255000.0,Petrol
+167,hyundai,I20  ,2010,57000.0,hatchback,Manual,borivali,245000.0,Petrol
+168,maruti,Ritz ,2016,58000.0,sedan,Manual,mumbai,295000.0,Diesel
+169,mercedes,Benz E Class ,2015,42300.0,sedan,Automatic,malad,2475000.0,Diesel
+170,mercedes,Benz GLA ,2016,45000.0,sedan,Automatic,malad,1900000.0,Diesel
+171,hyundai,I20 ,2021,25098.0,hatchback,Auto,andheri,1060000.0,Petrol
+172,mercedes,E 350 D ,2022,2082.0,luxury,Auto,malad,9300000.0,Diesel
+173,audi,A4 2.0TDI SLINE ,2012,50000.0,luxury,Automatic,malad,1200000.0,Diesel
+174,honda,CITY ,2012,55862.0,sedan,Manual,borivali,350000.0,Petrol
+175,mercedes,Benz GLE ,2019,33000.0,suv/muv,Automatic,malad,2475000.0,Diesel
+176,mercedes,Benz GLE ,2018,55900.0,suv/muv,Automatic,malad,5475000.0,Diesel
+177,mercedes,ML250 ,2014,83000.0,suv/muv,Automatic,malad,2775000.0,Diesel
+178,mercedes,ML 250 CDI ,2015,63000.0,suv/muv,Automatic,malad,3000000.0,Diesel
+179,audi, A6 2.0 TDI ,2014,58600.0,sedan,Auto,malad,1550000.0,Diesel
+180,audi,A6 3.0 TDI QUATTRO ,2011,38000.0,sedan,Auto,malad,1200000.0,Diesel
+181,audi,A6 35TDI TECHNOLOGY ,2015,49000.0,sedan,Auto,malad,2550000.0,Diesel
+182,audi,Q5 2.0TDI QUATTRO ,2012,72652.0,suv/muv,Auto,malad,1300000.0,Diesel
+183,audi,Q5 2.0TDI QUATTRO ,2012,68000.0,suv/muv,Auto,malad,1050000.0,Diesel
+184,audi,Q7 3.0TDI QUATTRO PREMIUM + ,2013,74000.0,suv/muv,Auto,malad,1550000.0,Diesel
+185,audi,TT 2.0TFSI QUATTRO ,2012,32500.0,sedan,Auto,malad,2449000.0,Petrol
+186,bmw,5SERIES 520D LUXURY LINE ,2016,47400.0,sedan,Auto,malad,2725000.0,Diesel
+187,bmw,5 SERIES 520D SEDAN ,2011,70900.0,sedan,Auto,malad,1149000.0,Diesel
+188,bmw,5 SERIES 520D SEDAN ,2012,81000.0,sedan,Auto,malad,1350000.0,Diesel
+189,bmw,5 SERIES 525ISEDAN ,2008,18108.0,sedan,Auto,malad,775000.0,Petrol
+190,honda,CITY ,2014,52000.0,sedan,Manual,andheri,611000.0,Petrol
+191,audi,Q3 ,2013,57297.0,suv,Auto,malad,1199000.0,Diesel
+192,mercedes,BENZ S CLAAS S 500 ,2014,37300.0,sedan,Auto,malad,5450000.0,Petrol
+193,bmw,6 SERIES ,2013,41000.0,sedan,Auto,malad,3100000.0,Diesel
+194,bmw,6SERIES GT 630I ,2021,7000.0,sedan,Auto,malad,6750000.0,Petrol
+195,bmw,X5 SAV 3.0D ,2017,56500.0,suv/muv,Auto,malad,4650000.0,Diesel
+196,ford,ENDEAVOUR TITANIUM ,2018,57335.0,suv/muv,Auto,malad,3325000.0,Diesel
+197,honda,BRIO VX MT ,2013,53000.0,hatchback,Manual,malad,315000.0,Petrol
+198,hyundai,CRETA 1.6 SX PLUS T ,2016,50000.0,suv/muv,Auto,malad,1025000.0,Petrol
+199,hyundai,CRETA SX 1.6  ,2018,22000.0,suv/muv,Auto,malad,1425000.0,Petrol
+200,hyundai,ELITE I20 1.2 KAPPA  ,2017,38300.0,hatchback,Manual,malad,549999.0,Petrol
+201,hyundai,ELITE I20 1.2  ,2020,19000.0,hatchback,Manual,malad,725000.0,Petrol
+202,hyundai,GRAND I10  ,2014,18500.0,hatchback,Auto,malad,385000.0,Petrol
+203,hyundai,GRAND I10 ,2017,29500.0,hatchback,Manual,malad,449000.0,Petrol
+204,hyundai,I10 ERA ,2008,45400.0,hatchback,Manual,malad,125000.0,Petrol
+205,hyundai,I20 ASTA 1.2 ,2012,24300.0,hatchback,Manual,malad,335000.0,Petrol
+206,hyundai,VERNA FLUIDIC ,2014,42000.0,sedan,Manual,malad,505000.0,Petrol
+207,hyundai,VERNA FLUIDIC  ,2015,58200.0,sedan,Auto,malad,595000.0,Petrol
+208,landrover,ROVER EVOQUE ,2011,57300.0,suv/muv,Automatic,malad,1949000.0,Diesel
+209,mercedes,BENZ GLE ,2017,44000.0,suv/muv,Automatic,malad,4750000.0,Diesel
+210,mercedes,BENZ GLS 350 D ,2016,35500.0,suv/muv,Automatic,malad,6150000.0,Diesel
+211,mercedes,BENZ M CLASS ,2012,94000.0,suv/muv,Auto,malad,1825000.0,Diesel
+212,mercedes,BENZ S CLASS 300L ,2013,57000.0,sedan,Auto,malad,1549000.0,Petrol
+213,mercedes,BENZ V CLASS EXCLUSIVE ,2019,4000.0,suv/muv,Auto,malad,8250000.0,Diesel
+214,audi,A3 35 TFSI TECHNOLOGY ,2019,9000.0,sedan,Auto,malad,2745000.0,Petrol
+215,audi,A4 30 TFSI TECHNOLOGY ,2018,1850.0,sedan,Automatic,malad,3449000.0,Petrol
+216,bmw,6 SERIES ,2021,7000.0,sedan,Auto,malad,6750000.0,Petrol
+217,maruti,SUZUKI CIAZ ,2017,15000.0,sedan,Auto,malad,825000.0,Petrol
+218,mercedes,BENZ CLA CLASS ,2020,8000.0,sedan,Automatic,malad,3225000.0,Diesel
+219,mercedes,BENZ GL 350  ,2015,63800.0,suv/muv,Auto,malad,4250000.0,Diesel
+220,hyundai,I10 ,2012,54444.0,hatchback,Manual,thane,250000.0,Petrol
+221,bmw,7 SERIES ,2016,38000.0,sedan,Auto,malad,6825000.0,Diesel
+222,honda,City ,2016,48657.0,sedan,Auto,malad,750000.0,Petrol
+223,mercedes,BENZ GLC 300 ,2018,27000.0,suv/muv,Auto,malad,4450000.0,Petrol
+224,porsche,718 BOXTER ,2017,34000.0,sedan,Auto,malad,8650000.0,Petrol
+225,skoda,Rapid ,2016,52000.0,sedan,Automatic,malad,650000.0,Diesel
+226,toyota,ETIOS V ,2018,25600.0,sedan,Manual,malad,649999.0,Petrol
+227,toyota,ETIOS VX ,2015,50000.0,sedan,Manual,malad,425000.0,Petrol
+228,toyota,FORTUNER 3.0 MT ,2010,125000.0,suv/muv,Manual,malad,800000.0,Diesel
+229,volkswagen,VENTO HIGHLINE  ,2012,62363.0,sedan,Manual,malad,349999.0,Diesel
+230,hyundai,GETZ ,2006,95000.0,hatchback,Manual,andheri,110000.0,Petrol
+231,bmw,520d sports line  ,2018,22000.0,sedan,Auto,mumbai,4575000.0,Diesel
+232,maruti,suzuki ciaz ,2017,22000.0,sedan,Manual,manual,675000.0,Petrol
+233,skoda,Rapid ,2016,61700.0,sedan,Automatic,malad,550000.0,Diesel
+234,hyundai,i20 Asta ,2010,77000.0,sedan,Manual,mumbai,275000.0,Petrol
+235,mercedes,Benz C Class ,2008,65000.0,sedan,Automatic,borivali,675000.0,Petrol
+236,skoda,Superb ,2016,73000.0,sedan,Auto,jogeshwari,1500000.0,Diesel
+237,honda,City ,2012,55000.0,sedan,Manual,malad,390000.0,Petrol
+238,maruti,BALENO ,2017,54000.0,sedan,Manual,malad,575000.0,Diesel
+239,honda,City ,2010,55000.0,sedan,Manual,mumbai,290000.0,Petrol
+240,toyota,Glanza G ,2020,14000.0,sedan,Manual,mumbai,775000.0,Petrol
+241,skoda,Octavia Style Plus ,2019,58000.0,sedan,Automatic,mumbai,1950000.0,Diesel
+242,toyota,Corolla  ,2017,70000.0,sedan,Automatic,borivali west,1029999.0,Petrol
+243,maruti,swift vxi ,2014,62000.0,hatchback,Manual,mumbai,395000.0,Petrol
+244,volkswagen,vento  ,2015,85000.0,sedan,Automatic,mumbai,500000.0,Diesel
+245,volkswagen,vento  ,2012,87000.0,sedan,Manual,mumbai,295000.0,Diesel
+246,bmw,520d luxury ,2012,87000.0,sedan,Automatic,mumbai,1250000.0,Diesel
+247,volkswagen,vento  ,2016,57000.0,sedan,Manual,mumbai,575000.0,Petrol
+248,honda,city  ,2018,21000.0,sedan,Manual,mumbai,825000.0,Petrol
+249,tata,Tigor ,2017,15900.0,sedan,Manual,malad,524999.0,Petrol
+250,toyota,Corolla Altis ,2015,43000.0,sedan,Manual,malad,875000.0,Petrol
+251,bmw,520 D ,2013,91322.0,luxury,Auto,malad,1399000.0,Diesel
+252,maruti,SWIFT DZIRE ,2012,57000.0,sedan,Manual,jogeshwari east,330000.0,Diesel
+253,honda,City ,2014,55000.0,sedan,Manual,mumbai,585000.0,Diesel
+254,bmw,MSPORTS ,2021,8000.0,sedan,Auto,mumbai,5495000.0,Petrol
+255,bmw,520D ,2017,12000.0,sedan,Auto,goregaon,4595000.0,Diesel
+256,bmw,730LD M-SPORTS ,2016,17000.0,sedan,Auto,mumbai,7195000.0,Diesel
+257,bmw,X1 ,2016,43000.0,suv/muv,Auto,mumbai,2145000.0,Diesel
+258,bmw,X1   ,2017,37602.0,luxury,Auto,malad,2399000.0,Diesel
+259,maruti,BALENO ZETA ,2017,9480.0,hatchback,Manual,borivali,595000.0,Petrol
+260,maruti,Swift ZXI ,2018,36000.0,sedan,Automatic,borivali,725000.0,Petrol
+261,volvo,XC90 D5 AWD ,2016,133000.0,suv,Automatic,mumbai,3900000.0,Diesel
+262,maruti,Swift VXI ,2017,7000.0,sedan,Manual,borivali,555000.0,Petrol
+263,hyundai,i10 Asta ,2012,77000.0,sedan,Manual,mumbai,295000.0,Petrol
+264,hyundai,Creta E+ 1.6 ,2017,32000.0,sedan,Manual,borivali,875000.0,Petrol
+265,hyundai,i20 Sports ,2012,49000.0,sedan,Manual,borivali,375000.0,Petrol
+266,maruti,Wagon ,2013,57000.0,hatchback,Manual,mumbai,320000.0,Petrol
+267,hyundai,Elantra ,2012,110000.0,sedan,Manual,powai,450000.0,Petrol
+268,hyundai,GRAND i10 ,2015,65000.0,hatchback,Manual,powai,449000.0,Diesel
+269,honda,JAZZ i-VTEC ,2016,35000.0,hatchback,Manual,powai,449000.0,Petrol
+270,maruti,SUZUKI BALENO ,2016,61000.0,hatchback,Manual,powai,520000.0,Petrol
+271,hyundai,CRETA 1.6 ,2018,43000.0,suv/muv,Auto,powai,945000.0,Petrol
+272,hyundai,VERNA FLUIDIC ,2015,54000.0,sedan,Manual,powai,499000.0,Petrol
+273,hyundai,Grand  i10 ,2020,14900.0,hatchback,Manual,borivali,597000.0,Petrol
+274,hyundai,Ii10 ,2011,45438.0,hatchback,Manual,andheri,200000.0,Petrol
+275,volkswagen,VENTO ,2016,63713.0,sedan,Automatic,malad,575000.0,Petrol
+276,maruti,Swift vxi  ,2012,59000.0,hatchback,Manual,borivali,379000.0,Petrol
+277,maruti,Suzuki Dzire ,2012,62363.0,sedan,Manual,borivali,399000.0,Petrol
+278,hyundai,i10 Sportz ,2014,37500.0,hatchback,Manual,borivali,385000.0,Petrol
+279,toyota,Toyota  ,2013,125000.0,suv/muv,Manual,borivali,1375000.0,Diesel
+280,maruti,Suzuiki  ,2014,60000.0,hatchback,Automatic,borivali,400000.0,Petrol
+281,maruti,Ertiga ,2014,68000.0,suv/muv,Manual,borivali,700000.0,Petrol
+282,honda,Civic  ,2011,76000.0,sedan,Manual,borivali,355000.0,Petrol
+283,chevrolet,Beat  ,2014,60000.0,hatchback,Manual,borivali,251000.0,Petrol
+284,mahindra,Scorpio  ,2013,145000.0,suv/muv,Manual,borivali,545000.0,Diesel
+285,maruti,Ciaz  ,2017,48000.0,sedan,Manual,borivali,725000.0,Diesel
+286,maruti,Dzire  ,2011,48000.0,sedan,Manual,borivali,325000.0,Diesel
+287,mahindra,XUV W6 ,2021,18000.0,suv/muv,Automatic,mumbai,952000.0,Petrol
+288,tata,Tigor  ,2021,10000.0,hatchback,Manual,mumbai,710000.0,Petrol
+289,hyundai,Creta  ,2019,18000.0,suv/muv,Automatic,mumbai,1450000.0,Petrol
+290,maruti,Vitara Brezza ,2019,3000.0,suv/muv,Automatic,mumbai,1185000.0,Diesel
+291,hyundai,Venue  ,2022,2452.0,suv/muv,Manual,mumbai,880000.0,Petrol
+292,bmw, X1 ,2012,23000.0,suv/muv,Automatic,mumbai,675000.0,Petrol
+293,audi,A6 ,2012,60000.0,luxury,Automatic,miraroad,1450000.0,Diesel
+294,tata,Nexon ,2018,54000.0,suv/muv,Automatic,mahim,950000.0,Diesel
+295,volkswagen,Polo ,2015,10000.0,hatchback,Manual,mahim,650000.0,Diesel
+296,maruti,Ciaz ,2017,57000.0,sedan,Manual,borivali,575000.0,Petrol
+297,honda,Brio ,2012,42000.0,hatchback,Manual,miraroad,265000.0,Petrol
+298,maruti,Dzire ,2011,40000.0,sedan,Manual,miraroad,265000.0,Petrol
+299,maruti,Dzire ,2011,40000.0,sedan,Manual,miraroad,265000.0,Petrol
+300,maruti,Alto ,2011,66000.0,hatchback,Manual,miraroad,155000.0,Petrol
+301,maruti,wagonR ,2012,66000.0,hatchback,Manual,miraroad,269000.0,Petrol
+302,maruti,WagonR ,2012,45000.0,hatchback,Manual,miraroad,299000.0,Petrol
+303,maruti,Zen Estilo ,2013,51000.0,hatchback,Manual,mira road,289000.0,Petrol
+304,maruti,WagonR Vxi ,2012,35000.0,hatchback,Manual,mira road,299000.0,Petrol
+305,honda,City ,2015,34500.0,sedan,Manual,mira road,579000.0,Petrol
+306,honda,City ,2011,40000.0,sedan,Manual,malad,335000.0,Petrol
+307,maruti,ERTIGA vxi ,2018,26000.0,suv/muv,Manual,goregaon,925000.0,Petrol
+308,honda,Jazz ,2017,92000.0,hatchback,Manual,goregaon,515000.0,Diesel
+309,tata,Safari Storme ,2014,105000.0,suv/muv,Manual,goregaon,551000.0,Diesel
+310,hyundai,GRAND I10 ,2016,36000.0,hatchback,Automatic,matunga,525000.0,Petrol
+311,mercedes,Benz V Class ,2019,27000.0,luxury,Automatic,malad,7300000.0,Diesel
+312,hyundai,ELANTRA ,2017,53000.0,sedan,Manual,ghatkopar,1150000.0,Diesel
+313,land rover range rover,Range Rover Evoque ,2013,112000.0,suv/muv,Automatic,ghatkopar,8225000.0,Diesel
+314,honda,CITY ,2014,30000.0,sedan,Manual,ghatkopar,615000.0,Petrol
+315,maruti,SWIFT ,2012,78000.0,hatchback,Manual,ghatkopar,440000.0,Diesel
+316,volkswagen,Passat ,2018,50000.0,sedan,Manual,matunga,1975000.0,Diesel
+317,mercedes,Benz E Class ,2010,83919.0,luxury,Automatic,matunga,899000.0,Petrol
+318,honda,CITY ,2019,61000.0,sedan,Automatic,borivali,970000.0,Petrol
+319,jeep,Compass Limited ,2018,30176.0,suv,Automatic,malad,1499000.0,Petrol
+320,honda,CITY ,2015,73257.0,sedan,Manual,borivali,570000.0,Diesel
+321,isuzu mu,MU-X ,2017,40200.0,suv/muv,Automatic,matunga,1995000.0,Diesel
+322,honda,CR-V ,2016,45900.0,suv/muv,Automatic,matunga,1375000.0,Petrol
+323,maruti,A Star VXI ,2013,54200.0,hatchback,Automatic,m.g.road,285000.0,Petrol
+324,hyundai,i10 Magna ,2008,67136.0,hatchback,Manual,m.g.road,149000.0,Petrol
+325,hyundai,i10 Asta ,2009,249000.0,hatchback,Automatic,m.g.road,249000.0,Petrol
+326,honda,Jazz ,2016,36900.0,hatchback,Automatic,m.g.road,590000.0,Petrol
+327,skoda,Rapid ,2015,75200.0,sedan,Automatic,m.g.road,475000.0,Diesel
+328,maruti,SX4 VXi ,2008,84100.0,sedan,Manual,m.g.road,175000.0,Petrol
+329,honda,Amaze ,2014,60919.0,sedan,Manual,m.g.road,449000.0,Diesel
+330,audi,S5 Sportback ,2017,27200.0,sedan,Automatic,m.g.road,5275000.0,Petrol
+331,mahindra,Thar LX 4-STR Hard Top ,2021,17000.0,suv/muv,Automatic,m.g.road,1800000.0,Petrol
+332,toyota,Innova ,2019,15024.0,suv/muv,Manual,m.g.road,2285000.0,Diesel
+333,volkswagen,Polo GT TSI ,2016,45000.0,hatchback,Automatic,mumbai,620000.0,Petrol
+334,maruti,Ciaz Alpha ,2017,53320.0,sedan,Manual,m.g.road,750000.0,Petrol
+335,hyundai,Grand i10 Asta ,2014,28200.0,hatchback,Manual,m.g.road,435000.0,Petrol
+336,maruti,Ertiga ZDI BS ,2012,59000.0,suv/muv,Manual,m.g.road,575000.0,Petrol
+337,toyota,Etios  ,2013,65343.0,sedan,Manual,m.g.road,400000.0,Petrol
+338,volkswagen,Polo ,2016,51000.0,hatchback,Manual,m.g.road,485000.0,Diesel
+339,toyota,Innova Crysta ,2019,21000.0,suv/muv,Manual,mumbai,1949999.0,Diesel
+340,hyundai,i20 Sportz  ,2011,84000.0,hatchback,Manual,mumba,315000.0,Diesel
+341,maruti,Vitara Brezza ,2016,64257.0,suv/muv,Manual,m.g.road,810000.0,Diesel
+342,honda,Amaze  ,2015,45000.0,sedan,Manual,m.g.road,455000.0,Petrol
+343,honda,Brio  ,2012,48000.0,hatchback,Manual,m.g.road,325000.0,Petrol
+344,maruti,Celerio  ,2016,15000.0,hatchback,Auto,m.g.road,465000.0,Petrol
+345,honda,City 1.5 V MT ,2012,105000.0,sedan,Manual,m.g.road,349000.0,Petrol
+346,mercedes,E Class 280 CDI ,2008,69000.0,sedan,Auto,m.g.road,725000.0,Diesel
+347,toyota,Camry Hybrid ,2014,112000.0,sedan,Auto,m.g.road,1275000.0,Petrol
+348,audi,A4 2.0 TDI ,2012,50000.0,sedan,Auto,m.g.road,1275000.0,Diesel
+349,bmw,5 Series ,2016,45000.0,sedan,Auto,m.g.road,2775000.0,Diesel
+350,mercedes,E Class ,2009,73000.0,sedan,Auto,m.g.road,750000.0,Diesel
+351,toyota,Innova 2.5 VX ,2014,98000.0,suv/muv,Manual,m.g.road,1060000.0,Diesel
+352,audi,A6 ,2010,94000.0,sedan,Auto,m.g.road,770000.0,Diesel
+353,honda,City SV 1.5L i-VTEC ,2017,57000.0,sedan,Manual,m.g.road,749000.0,Petrol
+354,hyundai,Creta 1.6 ,2017,56000.0,suv/muv,Auto,m.g.road,1140000.0,Petrol
+355,mercedes,E Class ,2008,54000.0,sedan,Auto,m.g.road,450000.0,Petrol
+356,mercedes,S Class ,2011,72000.0,sedan,Auto,m.g.road,1495000.0,Diesel
+357,mercedes,E Class ,2011,66000.0,sedan,Auto,m.g.road,975000.0,Diesel
+358,honda,Jaaz ,2015,47000.0,hatchback,Auto,bombay,525000.0,Petrol
+359,mercedes,E250 CDI ,2010,93000.0,luxury sedan,Auto,mazgoan,725000.0,Diesel
+360,honda,Jazz ,2010,92000.0,hatchback,Manual,andheri west,225000.0,Petrol
+361,maruti,star VXI ,2009,80000.0,hatchback,Manual,andheri west,150000.0,Petrol
+362,maruti,Swift Dzire ,2013,68000.0,sedan,Manual,andheri west,440000.0,Petrol
+363,hyundai,I20 Asta ,2009,99000.0,hatchback,Manual,andheri west,240000.0,Petrol
+364,hyundai,I20 Asta ,2010,70000.0,hatchback,Manual,andheri west,245000.0,Petrol
+365,hyundai,i20 Asta ,2009,95000.0,hatchback,Manual,andheri west,248000.0,Petrol
+366,bmw,3 series Sports Line  ,2013,60000.0,luxury,Auto,andheri,1365000.0,Diesel
+367,audi,A7 ,2015,59000.0,luxury,Auto,andheri,2625000.0,Diesel
+368,skoda,Octavia  ,2017,48000.0,sedan,Auto,andheri,1485000.0,Petrol
+369,honda,City ,2010,75000.0,sedan,Auto,andheri,325000.0,Petrol
+370,mahindra,Bolero ,2014,90000.0,suv/muv,Manual,mumbai,550000.0,Diesel
+371,maruti,Ciaz  ,2016,43000.0,sedan,Auto,mumbai,650000.0,Petrol
+372,maruti,Celerio  ,2016,47000.0,hatchback,Manual,mumbai,470000.0,Petrol
+373,maruti,Dzire  ,2013,77000.0,sedan,Manual,mumbai,440000.0,Diesel
+374,toyota,Corolla  ,2012,70000.0,sedan,Manual,mumbai,420000.0,Diesel
+375,maruti,Ignis  ,2017,81000.0,hatchback,Manual,mumbai,630000.0,Diesel
+376,hyundai,Grand i10 ,2015,38000.0,hatchback,Manual,mumbai,350000.0,Petrol
+377,mahindra,XUV 5OO ,2013,100000.0,suv/muv,Manual,mira road,600000.0,Diesel
+378,toyota,Innova  ,2015,88000.0,suv/muv,Manual,mumbai,1175000.0,Diesel
+379,maruti,WagonR VXI  ,2012,36000.0,hatchback,Manual,mumbai,295000.0,Petrol
+380,hyundai,Creta  ,2017,37000.0,suv/muv,Manual,mumbai,875000.0,Petrol
+381,volkswagen,Polo Highline  ,2016,40000.0,hatchback,Manual,mumbai,595000.0,Diesel
+382,mercedes,GLA 220D ,2016,55000.0,luxury,Auto,mumbai,2430000.0,Diesel
+383,toyota,INNOVA  ,2014,151000.0,suv/muv,Manual,kandiwali west,949999.0,Diesel
+384,hyundai,I 20 ,2014,75000.0,hatchback,Manual,kandiwali west,425000.0,Petrol
+385,honda,City ,2010,76000.0,sedan,Auto,kandiwali west,361000.0,Petrol
+386,bmw,3 Series GT ,2015,24000.0,luxury,Auto,mumbai,2395000.0,Diesel
+387,hyundai,Grand I10  ,2015,28000.0,hatchback,Manual,mumbai,461000.0,Petrol
+388,honda,HONDA CITY ,2015,43000.0,sedan,Auto,kandiwali west,790000.0,Petrol
+389,maruti,Ertiga VXI  ,2016,46000.0,suv/muv,Manual,mumbai,790000.0,Petrol
+390,maruti,Ertiga ,2017,56000.0,suv/muv,Manual,mumbai,875000.0,Petrol
+391,honda,City ,2012,53000.0,sedan,Manual,mumbai,421000.0,Petrol
+392,hyundai,Grand I 20 ,2015,65000.0,hatchback,Manual,kandivali west,545000.0,Petrol
+393,toyota,Innova Crysta ,2016,63000.0,suv/muv,Manual,kandiwali west,1575000.0,Diesel
+394,mitsubishi,Pajero Sports ,2016,82000.0,suv/muv,Automatic,mitsubishi pajero sports,1471111.0,Diesel
+395,mercedes,Benz ML Class ,2010,68000.0,luxury,Automatic,matunga,1375000.0,Diesel
+396,hyundai,Creta ,2018,13500.0,suv/muv,Manual,matunga,945000.0,Petrol
+397,toyota,Corolla Altis ,2016,54000.0,sedan,Automatic,matunga road,975000.0,Petrol
+398,kia,SONET ,2021,13000.0,hatchback,Manual,matunga road,1275000.0,Petrol
+399,honda,JAZZ ,2017,28000.0,hatchback,Manual,matunga road,625000.0,Petrol
+400,bmw,X3 XDrive ,2019,35000.0,suv/muv,Manual,matunga road,5475000.0,Diesel
+401,mahindra,XUV 500 ,2017,68000.0,suv/muv,Manual,matunga road,965000.0,Diesel
+402,mg,HECTOR ,2020,6278.0,suv/muv,Manual,matunga road,1795000.0,Petrol
+403,bmw,3 Series ,2020,450.0,luxury,Automatic,matunga road,4950000.0,Diesel
+404,bmw,3 SERIES 320D ,2020,400.0,luxury,Automatic,matunga road,4975000.0,Diesel
+405,mitsubishi,Outlander 2.4 ,2010,86335.0,suv/muv,Automatic,matunga road,395000.0,Petrol
+406,tata,Nexon EV XZ  ,2021,13100.0,suv/muv,Automatic,matunga,1485000.0,Petrol
+407,maruti,CIAZ ,2015,40000.0,sedan,Automatic,matunga road,635000.0,Petrol
+408,toyota,Innova Crysta ,2018,22800.0,suv/muv,Automatic,matunga road,2225000.0,Diesel
+409,honda,Jazz ,2018,27251.0,hatchback,Automatic,matunga road,725000.0,Petrol
+410,mercedes,E250 ,2010,93000.0,luxury sedan,Automatic,mazgoan,725000.0,Diesel
+411,toyota,Fortuner ,2019,21000.0,suv/muv,Automatic,matunga road,3675000.0,Diesel
+412,jaguar,XJ 3.0l Portfolio ,2017,16500.0,luxury,Automatic,matunga road,6775000.0,Diesel
+413,tata,Nano Twist XT ,2015,9000.0,hatchback,Manual,matunga road,225000.0,Petrol
+414,maruti,Swift VXI ,2019,16000.0,sedan,Manual,matunga road,635000.0,Petrol
+415,jaguar,XF 2.0 Prestige ,2017,27800.0,sedan,Automatic,matunga road,3200000.0,Petrol
+416,volvo,S60 Cross Country ,2018,18200.0,sedan,Automatic,matunga road,2500000.0,Diesel
+417,mercedes,C Class ,2012,63000.0,luxury,Automatic,mumbai,1225000.0,Diesel
+418,skoda,superb ,2012,62363.0,sedan,Manual,mumbai,445000.0,Petrol
+419,mahindra,Xylo ,2009,66000.0,suv/muv,Manual,mumbai central,300000.0,Diesel
+420,ford,feista ,2010,90000.0,sedan,Manual,mumbai central,185000.0,Petrol
+421,maruti,Swift vdi ,2010,69000.0,hatchback,Manual,mumbai central,265000.0,Diesel
+422,maruti,Swift dezire ,2018,71000.0,sedan,Manual,mumbai central,650000.0,Petrol
+423,hyundai,i10 magna ,2011,10300.0,hatchback,Manual,mumbai central,275000.0,Petrol
+424,maruti,wagon r LXI ,2018,16000.0,hatchback,Manual,mumbai central,565000.0,Petrol
+425,toyota,Fortuner ,2010,286000.0,suv/muv,Manual,mumbai central,925000.0,Diesel
+426,honda,City ivtec ,2013,58000.0,sedan,Manual,mumbai central,475000.0,Petrol
+427,hyundai,i10 grand ,2016,52000.0,hatchback,Automatic,mumbai central,565000.0,Petrol
+428,maruti,wagon r LXI ,2018,55000.0,hatchback,Manual,mumbai central,525000.0,Petrol
+429,mahindra,Scorpio ,2015,45000.0,suv/muv,Manual,mumbai central,830000.0,Diesel
+430,maruti,SWIFT ,2014,58526.0,sedan,Automatic,thane,425000.0,Petrol
+431,maruti,Ciaz ,2016,62949.0,sedan,Manual,thane,750000.0,Petrol
+432,maruti,CELERIO ,2015,13005.0,hatchback,Automatic,thane,385000.0,Petrol
+433,maruti,CIAZ ,2016,26045.0,sedan,Manual,thane,650000.0,Petrol
+434,maruti,WAGONR ,2016,20000.0,hatchback,Manual,malad,419999.0,Petrol
+435,mercedes,Benz E Class ,2018,19600.0,sedan,Automatic,malad,4890000.0,Diesel
+436,mahindra,Xuv500 W8 ,2015,92000.0,suv/muv,Manual,mumbai central,845000.0,Diesel
+437,honda,City ,2010,66000.0,sedan,Manual,mumbai central,325000.0,Petrol
+438,toyota,Camry ,2016,120000.0,sedan,Automatic,malad,1350000.0,Petrol
+439,skoda,Laura 2.0 tdi  ,2011,144000.0,sedan,Automatic,mumbai central,450000.0,Diesel
+440,hyundai,i20 magna ,2012,79000.0,hatchback,Manual,mumbai central,351000.0,Petrol
+441,maruti,Swift dezire ,2010,68000.0,sedan,Manual,mumbai central,321000.0,Petrol
+442,volkswagen,polo Highline ,2011,79000.0,hatchback,Manual,mumbai central,255000.0,Petrol
+443,volkswagen,Vento Highline  ,2011,71000.0,sedan,Manual,"mazgoan, mumbai",285000.0,Diesel
+444,audi,Q5 2.0TDI ,2011,113000.0,suv/muv,Automatic,mumbai,950000.0,Diesel
+445,skoda,Superb 2.0TDI ,2009,49000.0,sedan,Automatic,mazgoan,299000.0,Diesel
+446,porsche,Cayenne Sports ,2011,89000.0,suv/muv,Automatic,"mazgoan, mumbai",2499999.0,Diesel
+447,hyundai,i10 magna ,2011,66000.0,hatchback,Manual,"mazgoan, mumbai",211000.0,Petrol
+448,maruti,Ritz vxi ,2009,70000.0,hatchback,Manual,"mazgoan, mumbai",225000.0,Petrol
+449,mahindra,XUV500 W8 ,2012,90000.0,suv/muv,Manual,"mazgoan, mumbai",480000.0,Diesel
+450,toyota,Altis VL  ,2009,85000.0,sedan,Automatic,"mazgoan, mumbai",350000.0,Petrol
+451,mercedes,C250 CDI ,2012,75000.0,luxury sedan,Automatic,"mazgoan, mumbai",975000.0,Diesel
+452,nissan,micra XV ,2010,85000.0,hatchback,Manual,"mazgoan, mumbai",179000.0,Petrol
+453,skoda,Superb ,2012,68000.0,sedan,Manual,"mazgoan, mumbai",555000.0,Diesel
+454,mercedes,C250CDI ,2011,90000.0,luxury sedan,Automatic,"mazgoan, mumbai",750000.0,Diesel
+455,mercedes,GLA 200CDI ,2015,58000.0,sedan,Automatic,mumbai,1711000.0,Diesel
+456,volkswagen,Vento TSI ,2011,80000.0,sedan,Manual,"mazgoan, mumbai",235000.0,Petrol
+457,skoda,Rapid ,2015,65000.0,sedan,Manual,"mazgoan, mumbai",511000.0,Diesel
+458,toyota,Altis VL ,2009,85000.0,sedan,Automatic,"mazgoan, mumbai",325000.0,Petrol
+459,skoda,Rapid 1.6 TSI ,2018,42000.0,sedan,Automatic,"mazgoan, mumbai",699000.0,Petrol
+460,audi,Q7 3.0TDI ,2013,113000.0,suv/muv,Automatic,"mazgoan, mumbai",1650000.0,Diesel
+461,mahindra,XUV500 ,2016,65000.0,suv/muv,Manual,"mazgoan, mumbai",850000.0,Diesel
+462,toyota,Innova V 8 ,2012,108000.0,suv/muv,Manual,"mazgoan, mumbai",725000.0,Diesel
+463,maruti,ERTIGA ,2014,48482.0,suv,Manual,malad,635000.0,Petrol
+464,hyundai,I10 SPORTS ,2010,24900.0,hatchback,Manual,borivali west,265000.0,Petrol
+465,hyundai,I10 MAGNA ,2011,53500.0,hatchback,Manual,borivali west,265000.0,Petrol
+466,hyundai,I20 SPORTZ ,2011,68700.0,hatchback,Manual,borivali west,285000.0,Petrol
+467,hyundai,I10 MAGNA ,2008,55100.0,hatchback,Manual,borivali west,195000.0,Petrol
+468,hyundai,I20 SPORTZ ,2012,49300.0,hatchback,Manual,borivali west,385000.0,Petrol
+469,honda,CITY ,2016,58300.0,sedan,Automatic,borivali west,751000.0,Petrol
+470,honda,CITY ,2010,106000.0,sedan,Manual,borivali west,325000.0,Petrol
+471,hyundai,I 20 ASTA CRDI ,2014,33500.0,hatchback,Manual,borivali west,599000.0,Diesel
+472,honda,CITY ,2014,54200.0,sedan,Automatic,borivali west,595000.0,Petrol
+473,volkswagen,PASSAT COMFORTLINE ,2011,78200.0,sedan,Automatic,mira raod,755000.0,Diesel
+474,bmw,525 D ,2012,80434.0,luxury,Automatic,malad,1500000.0,Diesel
+475,maruti,WAGON R ,2018,134165.0,hatchback,Manual,thane,390000.0,Petrol
+476,maruti,SX4 ,2010,51187.0,sedan,Manual,thane,210000.0,Petrol
+477,audi,A3 ,2019,9000.0,sedan,Automatic,malad,3000000.0,Petrol
+478,mahindra,Quanto C6 ,2012,81000.0,sedan,Manual,mumbai,375000.0,Diesel
+479,audi,A6 2.0 TDI ,2013,56600.0,sedan,Automatic,mumbai,1325000.0,Diesel
+480,honda,City ,2011,65000.0,sedan,Manual,andheri,295000.0,Petrol
+481,maruti,Beat Ls ,2014,32900.0,hatchback,Manual,andheri,215000.0,Petrol
+482,maruti,Ciaz Zeta ,2018,33000.0,sedan,Manual,andheri,795000.0,Petrol
+483,toyota,Innova Crysta ,2019,89600.0,suv/muv,Automatic,andheri,1895000.0,Diesel
+484,bmw,X1 ,2018,13000.0,suv/muv,Automatic,borivali west,2999999.0,Diesel
+485,maruti,Wagon R VXI ,2015,600000.0,hatchback,Manual,borivali west,364999.0,Petrol
+486,hyundai,Creta SX Plus 1.6 ,2019,58000.0,suv/muv,Automatic,borivali west,1499999.0,Diesel
+487,hyundai,Creta SX ,2021,12600.0,suv/muv,Automatic,borivali west mumbai,1969999.0,Diesel
+488,bmw, 5 Series 520d ,2015,61000.0,sedan,Automatic,borivali west mumbai,2499999.0,Diesel
+489,tata,Tigor Revotron XZ ,2017,16200.0,hatchback,Manual,borivali west mumbai,525111.0,Petrol
+490,mahindra,Thar DI 2WD ,2013,45000.0,suv/muv,Manual,borivali west mumbai,749999.0,Diesel
+491,audi,Q3 ,2013,51000.0,suv/muv,Automatic,borivali west mumbai,1599999.0,Diesel
+492,porsche,Cayenne S ,2011,89500.0,suv/muv,Automatic,borivali west mumbai,2495999.0,Diesel
+493,maruti,Wagon R 1.0 ,2020,14805.0,hatchback,Automatic,borivali west mumbai,579999.0,Petrol
+494,landrover,Range Rover Evoque Dynamic SD4 ,2014,58000.0,suv/muv,Automatic,borivali west mumbai,2611111.0,Diesel
+495,renault,Triber RXZ  ,2021,5000.0,suv/muv,Manual,borivali west,775111.0,Petrol
+496,porsche,Cayenne Turbo ,2011,43000.0,suv/muv,Automatic,borivali west,2849999.0,Diesel
+497,bmw,5 Series ,2012,82300.0,sedan,Automatic,malad,1375000.0,Diesel
+498,maruti,Ertiga VXI ,2016,48000.0,suv/muv,Manual,borivali west,795111.0,Petrol
+499,mitsubishi,Pajero Sport ,2016,69000.0,suv/muv,Automatic,borivali west,1725111.0,Diesel
+500,maruti,Eeco 5 STR ,2021,12600.0,suv/muv,Manual,borivali west,605111.0,Petrol
+501,kia,Seltos GTX ,2021,20000.0,suv/muv,Automatic,borivali west,1921111.0,Diesel
+502,maruti,Ertiga VXI ,2017,65000.0,suv/muv,Manual,borivali west,819999.0,Petrol
+503,volkswagen,Vento 1.2L TSI Comfortline ,2015,59900.0,sedan,Automatic,borivali west,525111.0,Petrol
+504,tata,Safari XT Plus ,2022,1800.0,suv/muv,Manual,borivali west,2099999.0,Diesel
+505,mahindra,Thar LX 4-STR  ,2021,13000.0,suv/muv,Automatic,borivali west,1699999.0,Diesel
+506,honda,City S ,2018,24000.0,sedan,Manual,borivali west mumbai,745111.0,Petrol
+507,hyundai,i20 Asta ,2010,52000.0,hatchback,Automatic,borivali west mumbai,289999.0,Petrol
+508,mercedes,Benz E Class E250 ,2015,71000.0,sedan,Automatic,borivali west mumbai,2069999.0,Diesel
+509,volvo,S60 Momentum ,2017,22000.0,sedan,Automatic,borivali west mumbai,2125111.0,Diesel
+510,hyundai,i20 Sportz ,2010,48000.0,hatchback,Automatic,borivali west mumbai,299999.0,Petrol
+511,mercedes,Benz E Class ,2021,9100.0,sedan,Automatic,borivali west mumbai,7984999.0,Diesel
+512,audi,A6  ,2013,61000.0,sedan,Automatic,borivali west,1349999.0,Diesel
+513,mercedes,Benz GL 350 ,2015,68000.0,suv/muv,Automatic,borivali west,3375111.0,Diesel
+514,hyundai,i10 Magna ,2013,53000.0,hatchback,Manual,borivali west,285111.0,Petrol
+515,honda,Jazz V CVT ,2017,42000.0,hatchback,Manual,borivali west,649999.0,Petrol
+516,mini,Convertible ,2012,24000.0,hatchback,Automatic,borivali west,2199999.0,Petrol
+517,toyota,Camry  ,2014,91000.0,sedan,Automatic,borivali west,1275111.0,Petrol
+518,skoda,Octavia 2.0 ,2018,49000.0,sedan,Manual,borivali west,2085111.0,Diesel
+519,honda,City VX  ,2018,44000.0,sedan,CVT,borivali west,1075111.0,Petrol
+520,hyundai,i10 Sportz ,2009,65000.0,hatchback,Automatic,borivali west,249999.0,Petrol
+521,toyota,Innova Crysta ,2019,21000.0,suv/muv,Manual,borivali west,1949999.0,Diesel
+522,skoda,Superb 2.0 TDI ,2013,68000.0,sedan,Automatic,borivali west,490000.0,Diesel
+523,maruti,Baleno Sigma ,2017,55000.0,sedan,Manual,borivali west,625000.0,Diesel
+524,maruti, Celerio Vxi ,2016,15000.0,sedan,Manual,borivali west,455000.0,Petrol
+525,toyota,ETIOS ,2015,50000.0,sedan,Manual,mumbai,450000.0,Petrol
+526,toyota,Toyota Innova ,2010,133000.0,sedan,Manual,borivali west,575000.0,Diesel
+527,hyundai,i20 Sportz ,2011,62000.0,sedan,Manual,borivali west,295000.0,Petrol
+528,hyundai,i10 Sportz  ,2009,65000.0,hatchback,Automatic,borivali west,249999.0,Petrol
+529,toyota,Innova Crysta ,2019,21000.0,suv/muv,Manual,borivali west,1949999.0,Diesel
+530,maruti,Dzire VDI ,2018,35500.0,sedan,Automatic,borivali west,725111.0,Diesel
+531,skoda,Kodiaq Style ,2018,71000.0,suv/muv,Manual,borivali west,2485111.0,Diesel
+532,honda,City SV ,2016,58000.0,sedan,Automatic,borivali,735111.0,Petrol
+533,bmw,3 Series GT 320d ,2014,65000.0,hatchback,Automatic,borivali,1975111.0,Diesel
+534,toyota,Fortuner ,2018,55000.0,suv/muv,Automatic,borivali,2885111.0,Diesel
+535,mercedes,GLA Class 220 d ,2017,60000.0,hatchback,Automatic,borivali,2399999.0,Diesel
+536,hyundai,Elantra ,2014,45000.0,sedan,Automatic,borivali,639999.0,Petrol
+537,bmw,GT 320d ,2015,44600.0,luxury,Automatic,borivali,1999999.0,Diesel
+538,honda,City iv tec V ,2012,67000.0,sedan,Manual,mumbai,335000.0,Petrol
+539,mercedes,Benz M Class ,2015,63000.0,suv/muv,Automatic,borivali,2849999.0,Diesel
+540,honda,City Zx ,2017,37301.0,sedan,Automatic,borivali,890000.0,Petrol
+541,nissan,Terrano  ,2013,85000.0,suv/muv,Manual,borivali west,495111.0,Diesel
+542,maruti,Suzuki Swift  ,2016,60100.0,hatchback,Manual,borivali west,555555.0,Diesel
+543,mercedes,Benz S Class 350  ,2011,63000.0,luxury,Automatic,borivali west,1375111.0,Diesel
+544,hyundai,Venue  ,2019,26000.0,suv/muv,Manual,borivali west,975111.0,Petrol
+545,hyundai,Elantra  ,2013,57000.0,sedan,Manual,borivali west,489999.0,Petrol
+546,bmw,5 Series  ,2013,57000.0,luxury,Automatic,borivali west,1325111.0,Petrol
+547,bmw,5 Series ,2012,66000.0,luxury,Automatic,borivali west,1275111.0,Diesel
+548,audi,Q7  ,2013,85000.0,suv/muv,Automatic,borivali west,1785111.0,Diesel
+549,maruti,Vitara Brezza ,2020,22000.0,suv/muv,Manual,borivali west,869999.0,Petrol
+550,bmw,7 Series ,2017,22000.0,luxury,Automatic,borivali west,7499999.0,Diesel
+551,mercedes,Benz S ,2008,66000.0,luxury,Automatic,borivali west,851111.0,Petrol
+552,chevrolet,Spark  ,2009,44123.0,hatchback,Manual,borivali west,125000.0,Petrol
+553,bmw,3 series ,2014,51000.0,sedan,Automatic,andheri west,1565000.0,Diesel
+554,audi,A6 2.0 TDI ,2013,62000.0,sedan,Automatic,andheri west,1245000.0,Diesel
+555,bmw,520D ,2020,9000.0,sedan,Automatic,andheri west,5600000.0,Diesel
+556,porsche,Cayenne ,2017,3500.0,luxury,Automatic,andheri west,8700000.0,Petrol
+557,bmw,620D GT ,2019,27000.0,luxury,Automatic,andheri west,5775000.0,Diesel
+558,bmw,630d GT M ,2018,9500.0,luxury,Automatic,andheri west,6300000.0,Diesel
+559,mercedes,Benz  ,2018,32760.0,luxury,Automatic,andheri west,4790000.0,Diesel
+560,mercedes,Benz GLS 350 ,2017,40000.0,luxury,Automatic,andheri west,6400000.0,Petrol
+561,mercedes,Benz GLC 300 ,2020,23500.0,luxury,Automatic,andheri west,5500000.0,Petrol
+562,mercedes,Mercedes Benz GLA 200 ,2018,14000.0,luxury,Automatic,andheri west,3050000.0,Petrol
+563,honda,Amaze ,2018,18519.0,sedan,Automatic,bps-malad,699000.0,Petrol
+564,bmw,5 Series 520d ,2011,77800.0,luxury,Automatic,borivali,1111111.0,Diesel
+565,landrover,Range Rover Discover Sport ,2016,34000.0,suv/muv,Automatic,andheri,4500000.0,Diesel
+566,landrover,Range Rover Evoque ,2020,8009.0,suv/muv,Automatic,andheri,7000000.0,Petrol
+567,mercedes,Benz C Class ,2018,34000.0,sedan,Automatic,malad,3690000.0,Diesel
+568,mercedes,Benz GLE ,2016,48200.0,suv/muv,Automatic,malad,3575000.0,Diesel
+569,hyundai, i20 Sports ,2015,41000.0,hatchback,Manual,kandivali,551000.0,Petrol
+570,honda,Honda City VX ,2016,45000.0,sedan,Automatic,kandivali,825000.0,Petrol
+571,maruti,Wagon R  ,2014,82000.0,hatchback,Manual,kandivali west,395000.0,Petrol
+572,maruti,Sx4 Zxi ,2010,47000.0,sedan,Automatic,kandivali west,351000.0,Petrol
+573,ford,Ecosport ,2015,40000.0,suv/muv,Manual,kandivali west,495000.0,Petrol
+574,toyota,Fortuner ,2013,62000.0,suv/muv,Automatic,kandivali west,1650000.0,Diesel
+575,honda,Amaze VX MT ,2020,2000.0,sedan,Manual,borivali west,795000.0,Petrol
+576,hyundai,i10 Asta ,2012,49000.0,sedan,Automatic,borivali west,351000.0,Petrol
+577,toyota,Fortuner ,2014,104000.0,suv/muv,Automatic,borivali west,1575000.0,Diesel
+578,skoda,Rapid Ambition ,2012,69000.0,sedan,Manual,borivali west,395000.0,Diesel
+579,hyundai,CRETA ,2017,14000.0,suv/muv,Manual,santarcruz,925000.0,Petrol
+580,maruti,Ciaz ,2017,57421.0,sedan,Manual,thane,599000.0,Petrol
+581,hyundai,i20 ,2017,14181.0,hatchback,Automatic,andheri,750000.0,Petrol
+582,honda,City  ,2015,48657.0,sedan,Automatic,malad,720000.0,Petrol
+583,audi,A4 ,2013,60000.0,sedan,Automatic,malad,1275000.0,Diesel
+584,kia,CARNIVAL ,2020,62000.0,luxury,Automatic,santarcruz,3195000.0,Diesel
+585,maruti,SWIFT ,2020,7000.0,hatchback,Automatic,santarcruz,825000.0,Petrol
+586,jeep,COMPASS ,2017,35000.0,suv/muv,Manual,santarcruz,1655000.0,Diesel
+587,mahindra,XYLO ,2011,71000.0,suv/muv,Manual,mumabi,295000.0,Diesel
+588,honda,Jazz ,2017,24000.0,hatchback,Manual,santarcruz,595000.0,Petrol
+589,honda,Jazz ,2009,61000.0,hatchback,Manual,mumbai,285000.0,Petrol
+590,honda,CITY ,2017,15000.0,sedan,Automatic,mumbai,885000.0,Petrol
+591,skoda,Superb ,2015,68000.0,sedan,Manual,borivali west,725000.0,Petrol
+592,hyundai,I20 ,2013,40000.0,hatchback,Manual,mumbai,355000.0,Petrol
+593,toyota,Fortuner ,2011,99000.0,sedan,Manual,borivali west,950000.0,Diesel
+594,maruti,Swift VXi ,2014,29000.0,sedan,Manual,borivali west,450000.0,Petrol
+595,ford,Endeavour Titanium ,2017,65000.0,sedan,Automatic,borivali west,2775000.0,Diesel
+596,mahindra,XUV500 W6 ,2013,68000.0,suv/muv,Manual,borivali west,550000.0,Diesel
+597,skoda,Superb  ,2020,24000.0,sedan,Automatic,borivali west,2400000.0,Petrol
+598,jeep,Compass ,2019,19000.0,sedan,Automatic,borivali west,2200000.0,Diesel
+599,renault,Duster RxL ,2016,46000.0,sedan,Manual,borivali west,535000.0,Diesel
+600,hyundai,i20 Sportz ,2012,58000.0,sedan,Automatic,borivali west,395000.0,Petrol
+601,hyundai,Elite i20 Asta ,2017,35000.0,sedan,Manual,borivali west,800000.0,Diesel
+602,hyundai,Creta E+ ,2018,36000.0,sedan,Manual,borivali west,925000.0,Petrol
+603,mercedes,Benz E Class E250 ,2014,72000.0,sedan,Automatic,ghatkopar east,1800000.0,Diesel
+604,bmw,X5 ,2014,44000.0,suv/muv,Automatic,santarcruz,2000000.0,Diesel
+605,mercedes,BENS E220 ,2012,55000.0,luxury,Automatic,santarcruz,1190000.0,Diesel
+606,hyundai,SONATA ,2007,71000.0,sedan,Manual,santarcruz,290000.0,Diesel
+607,renault,Duster Rxe ,2014,44000.0,suv/muv,Manual,santarcruz,545000.0,Diesel
+608,skoda,Rapid Elegance ,2017,48500.0,sedan,Automatic,andheri,825000.0,Diesel
+609,bmw,5-series ,2013,69000.0,sedan,Automatic,andheri,1865000.0,Diesel
+610,audi,A4 Technology ,2012,71000.0,sedan,Automatic,andheri,1055000.0,Diesel
+611,porsche,Cayyen ,2012,186000.0,suv/muv,Automatic,andheri,2600000.0,Diesel
+612,skoda,RAPID  ,2017,54000.0,sedan,Manual,thane,640000.0,Petrol
+613,bmw,3-SERIES ,2013,83000.0,sedan,Automatic,andheri,1365000.0,Diesel
+614,mercedes,Benz GL ,2016,78000.0,suv/muv,Automatic,andheri,1725000.0,Diesel
+615,skoda,Superb STYLE ,2016,42000.0,sedan,Automatic,andheri,1445000.0,Petrol
+616,maruti,WAGON R ,2016,73000.0,hatchback,Manual,thane,410000.0,Petrol
+617,audi,Q3 Premium ,2017,76000.0,suv/muv,Manual,andheri,1835000.0,Petrol
+618,landrover,RANGE ROVER Vogue ,2011,71300.0,suv/muv,Automatic,malad,3175000.0,Diesel
+619,hyundai,I20-SPORTZ+CVT ,2019,14500.0,hatchback,Manual,thane,775000.0,Petrol
+620,bmw,5-series ,2016,73000.0,sedan,Automatic,andheri,2515000.0,Diesel
+621,hyundai,I20 SPORTZ ,2014,66526.0,hatchback,Manual,thane,500000.0,Petrol
+622,mercedes,ML 350 ,2012,99000.0,suv/muv,Automatic,andheri,1675000.0,Diesel
+623,honda,CRV ,2016,63875.0,suv,Automatic,malad,1450000.0,Petrol
+624,bmw,5 SERIES ,2008,18108.0,sedan,Automatic,mumbai,775000.0,Petrol
+625,maruti,WAGON R ,2009,60000.0,hatchback,Manual,santarcruz,175000.0,Petrol
+626,hyundai,Verna ,2016,55000.0,sedan,Manual,santarcruz,595000.0,Petrol
+627,honda,jazz ,2015,59000.0,sedan,Manual,santarcruz,545000.0,Diesel
+628,maruti,Swift VDI ,2014,60000.0,hatchback,Manual,santarcruz,465000.0,Diesel
+629,honda,City ,2017,15000.0,sedan,Automatic,santarcruz,925000.0,Petrol
+630,hyundai,i10 ,2012,42000.0,hatchback,Manual,mumbai,275000.0,Petrol
+631,bmw,320D ,2013,64000.0,luxury,Automatic,mumbai,1220000.0,Diesel
+632,audi,A3 ,2015,71000.0,luxury,Automatic,mumbai,1275000.0,Diesel
+633,honda,BR V  ,2017,21000.0,suv/muv,Automatic,mumbai,795000.0,Petrol
+634,hyundai,I 20 SPORTZ ,2019,14000.0,hatchback,Automatic,malad,775000.0,Petrol
+635,maruti,ALTO ,2009,72000.0,hatchback,Manual,mira raod,115000.0,Petrol
+636,hyundai,VERNA FLUIDIC ,2011,67000.0,sedan,Manual,mira raod,315000.0,Petrol
+637,hyundai,I20 ELITE ,2018,18500.0,hatchback,Manual,mira raod,650000.0,Petrol
+638,ford,Figo ,2010,54000.0,hatchback,Manual,mira raod,125000.0,Petrol
+639,toyota,ETIOS ,2011,66500.0,sedan,Manual,mira raod,285000.0,Petrol
+640,jeep,Compass ,2018,30176.0,suv/muv,Automatic,mumbai,1499000.0,Petrol
+641,bmw,X1 ,2018,32760.0,suv/muv,Automatic,mumbai,2699000.0,Diesel
+642,tata,Tigor ,2018,41000.0,sedan,Manual,malad,564999.0,Petrol
+643,toyota,COROLLA ,2008,72000.0,sedan,Manual,mira raod,265000.0,Petrol
+644,chevrolet,CRUZ ,2012,62363.0,sedan,Automatic,mira raod,345000.0,Diesel
+645,maruti,ALTO 800 ,2013,48000.0,hatchback,Manual,mira raod,199000.0,Petrol
+646,chevrolet,BEAT ,2012,65000.0,hatchback,Manual,mira raod,155000.0,Petrol
+647,audi,A6 2.0 TDI ,2014,56700.0,sedan,Automatic,mumbai,1500000.0,Petrol
+648,bmw,3 SERIES ,2014,66300.0,sedan,Automatic,mumbai,1925000.0,Diesel
+649,bmw,6 SERIES ,2019,15600.0,sedan,Automatic,mumbai,5675000.0,Diesel
+650,bmw,X1 S DRIVE ,2016,33000.0,suv/muv,Automatic,mumbai,1650000.0,Diesel
+651,bmw,X1 XDRIVE ,2017,29500.0,sedan,Automatic,malad,6675000.0,Diesel
+652,honda,CITY ,2014,37200.0,sedan,Manual,mumbai,500000.0,Petrol
+653,honda,WR-V VX  ,2019,20000.0,suv/muv,Manual,mumbai,850000.0,Petrol
+654,hyundai,CRETA ,2019,54000.0,suv/muv,Automatic,malad,1475000.0,Diesel
+655,bmw,X5 XDRIVE ,2021,6700.0,suv/muv,Automatic,malad,10475000.0,Diesel
+656,hyundai,Creta ,2017,32500.0,suv/muv,Automatic,malad,1125000.0,Petrol
+657,maruti,CIAZ ,2017,57421.0,sedan,Manual,thane,599000.0,Petrol
+658,mercedes,Benz GLE ,2021,12600.0,sedan,Automatic,malad,9125000.0,Diesel
+659,maruti,Celerio ,2018,79063.0,hatchback,Manual,thane,450000.0,Petrol
+660,bmw,3 SERIES 320D ,2021,12500.0,sedan,Automatic,mumbai,4974000.0,Diesel
+661,mercedes,Benz GLC ,2018,47000.0,sedan,Automatic,malad,4419000.0,Diesel
+662,bmw,7 SERIES 730 LD ,2013,97000.0,sedan,Automatic,mumbai,2350000.0,Diesel
+663,bmw,Z4 ,2012,49000.0,sedan,Automatic,mumbai,3450000.0,Petrol
+664,hyundai,Creta ,2017,32500.0,sedan,Automatic,mumbai,1125000.0,Petrol
+665,maruti,A-Star ,2013,54200.0,hatchback,Automatic,ghatkopar,270000.0,Petrol
+666,honda,Jazz ,2016,36900.0,hatchback,Automatic,ghatkopar,565000.0,Petrol
+667,skoda,Rapid ,2015,75200.0,sedan,Automatic,ghatkopar,449000.0,Diesel
+668,maruti,SX4 ,2008,84100.0,sedan,Manual,ghatkopar,165000.0,Petrol
+669,bmw,5 SERIES 520D ,2011,48500.0,sedan,Automatic,malad,1274000.0,Diesel
+670,hyundai,Creta ,2019,17768.0,hatchback,Automatic,mumbai,1500000.0,Petrol
+671,mercedes,CLA 200D ,2016,23800.0,sedan,Automatic,malad,3175000.0,Diesel
+672,maruti,SWIFT ,2018,29000.0,sedan,Manual,mumbai,675000.0,Petrol
+673,tata,Nexon ,2021,20100.0,suv/muv,Automatic,malad,1089999.0,Petrol
+674,toyota,ETIOS ,2011,49200.0,sedan,Manual,malad,299999.0,Petrol
+675,bmw,7 Series 730Ld ,2013,68000.0,sedan,Automatic,borivali,2000000.0,Diesel
+676,hyundai,i10 ,2019,25800.0,sedan,Manual,malad,555000.0,Petrol
+677,hyundai,Venue ,2020,52000.0,suv/muv,Manual,borivali,999000.0,Diesel
+678,honda,City ,2015,62000.0,sedan,Automatic,borivali,651000.0,Petrol
+679,hyundai,I 20 ,2011,85000.0,sedan,Manual,borivali,280000.0,Diesel
